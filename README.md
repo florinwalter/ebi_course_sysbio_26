@@ -14,7 +14,11 @@ Then, create a new environment with Python 3.11 using the commands
 
 Then, install the required packages using
 
-`pip install mofaflex plotnine decoupler scikit-learn seaborn jupyterlab ipykernel`.
+`pip install plotnine decoupler scikit-learn seaborn jupyterlab ipykernel`
+
+and install the mofaflex development version with
+
+pip install git+https://github.com/bioFAM/mofaflex.git@main
 
 Install the jupyter kernel:
 
