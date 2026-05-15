@@ -18,7 +18,7 @@ Then, install the required packages using
 
 and install the mofaflex development version with
 
-pip install git+https://github.com/bioFAM/mofaflex.git@main
+pip install `git+https://github.com/bioFAM/mofaflex.git@main`
 
 Install the jupyter kernel:
 
